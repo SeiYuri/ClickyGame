@@ -1,0 +1,34 @@
+.mainCardContainer {
+    margin-bottom: 50px;
+    padding: 0; 
+    background-color: black;
+}
+
+.gameMessage {
+    text-align: center;
+    max-width: 100%;
+    align-content: center
+}
+
+.gameMessage p {
+    font-weight: 500;
+    color: white;
+    padding: 20px 0;
+    margin-bottom: 0px;
+}
+
+.gameScores {
+    text-align: center;
+    max-width: 100%;
+    align-content: center;
+    margin-bottom: 10px;
+}
+.gameScores p {
+    font-family: "Times";
+    font-weight: bold;
+    font-size: 25px;
+    background-color:#e7283a;
+    color: white;
+    padding: 20px 0;
+    margin-bottom: 25px;
+}
